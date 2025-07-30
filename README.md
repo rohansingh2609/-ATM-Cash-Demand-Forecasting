@@ -40,6 +40,9 @@ A data-driven Python application that predicts and visualizes ATM cash requireme
 
 ## 📸 Screenshots
 
-*(You can add actual screenshots here after running the app)*
+<img src="https://github.com/rohansingh2609/-ATM-Cash-Demand-Forecasting/blob/main/1.png" width="600"/>
+<img src="https://github.com/rohansingh2609/-ATM-Cash-Demand-Forecasting/blob/main/2.png" width="600"/>
+<img src="https://github.com/rohansingh2609/-ATM-Cash-Demand-Forecasting/blob/main/3.png" width="600"/>
+<img src="https://github.com/rohansingh2609/-ATM-Cash-Demand-Forecasting/blob/main/4.png" width="600"/>
 
 ---
